@@ -1,7 +1,7 @@
 
 import { Task } from "./types";
 
-const baseUrl ="http://localhost:3001"
+const baseUrl ="https://retoolapi.dev/49tnpW"
 
 export const getAllToDos = async ():Promise<Task[]> =>{
   

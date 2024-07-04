@@ -24,6 +24,7 @@ const Tasks: React.FC<TaskProps> = ({task,index}) => {
       text:taskToEdit
     })
     setTaskToEdit('')
+    setModalEdit(false)
     router.refresh();
   }
 

@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "text": "Build the project"
+    },
+    {
+      "id": "3",
+      "text": "go to gym"
+    },
+    {
+      "id": "f10a114a-5d2b-4dde-a431-e59f9a7145aa",
+      "text": "Learn Next.Js"
+    },
+    {
+      "id": "14df2e7b-c5b5-4b07-b705-45c7772a4d1d",
+      "text": "play footbal"
+    }
+  ]
+}

@@ -1,4 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Get Preview At :- 
+## https://todo-app-using-next-55duwpiuw-sudip-khadkas-projects.vercel.app/
+![Screenshot (191)](https://github.com/Sudip-khadka/todoAppUsingNextJs/assets/107389556/1a47ad98-5917-486c-8240-105c2086b1f6)
+![Screenshot (190)](https://github.com/Sudip-khadka/todoAppUsingNextJs/assets/107389556/f79372f1-ddec-4e85-be74-7c0e99722547)
 
 ## Getting Started
 
